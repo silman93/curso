@@ -1,0 +1,19 @@
+iMac-de-CCDM13:Curso ccdm13$ git log
+
+commit e9fd465c03f61bf04658cc352b48bc4673053c2f
+Author: silman93 <rubensilman@gmail.com>
+Date:   Mon Jun 29 14:25:07 2015 -0600
+
+    Maquetado de cajas y centrado index
+
+commit 5c29d8dd6898292cb7bfa470e3ccf52fad4454c4
+Author: silman93 <rubensilman@gmail.com>
+Date:   Mon Jun 29 14:17:24 2015 -0600
+
+    Texto de la pagina
+
+commit 990743541d3eeb39dd95e58d0b561819d93967df
+Author: jesus <edwin_puchino@hotmail.com>
+Date:   Mon Jun 29 13:55:52 2015 -0600
+
+    Proyecto Inicial
